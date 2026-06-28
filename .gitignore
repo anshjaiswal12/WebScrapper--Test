@@ -1,0 +1,45 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs & runtime output
+logs/
+*.log
+
+# Generated data (keep demo samples via app code)
+data/output/csv/*
+data/output/excel/*
+data/output/images/*
+!data/output/csv/.gitkeep
+!data/output/excel/.gitkeep
+!data/output/images/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Selenium debug
+logs/screenshots/
