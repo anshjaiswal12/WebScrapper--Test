@@ -1,0 +1,12 @@
+product_name,model_number,source,price,rating,in_stock,url,is_best_price
+HP Pavilion 15-eg2007TU Laptop Intel Core i5,EG2007TU,Amazon,45990,4.2,True,https://amazon.in/dp/B08XYZ123,False
+HP Pavilion 15-eg2007TU Laptop Intel Core i5,EG2007TU,Flipkart,44990,4.3,True,https://flipkart.com/p/hp-pavilion-15,True
+Apple iPhone 15 128GB Blue,15,Amazon,69999,4.5,True,https://amazon.in/dp/B0ABC123,False
+Apple iPhone 15 128GB Blue,15,Flipkart,68490,4.4,True,https://flipkart.com/p/iphone-15,True
+Sony WH-1000XM5 Wireless Headphones,WH-1000XM5,Amazon,24990,4.6,True,https://amazon.in/dp/B0XYZ789,False
+Sony WH-1000XM5 Wireless Headphones,WH-1000XM5,Flipkart,23990,4.5,True,https://flipkart.com/p/sony-wh1000xm5,True
+HP Pavilion 15-eg2007TU Intel Core i5 12th Gen,,Flipkart,44990,4.3,True,https://flipkart.com/p/hp-pavilion-15,False
+iPhone 15 128GB Blue,,Flipkart,68490,4.4,True,https://flipkart.com/p/iphone-15,False
+Sony WH-1000XM5 Noise Cancelling Headphones,,Flipkart,23990,4.5,True,https://flipkart.com/p/sony-wh1000xm5,False
+Dell Inspiron 15 3000 Laptop,,Amazon,38990,4.0,True,https://amazon.in/dp/DEL123,False
+Lenovo IdeaPad 3 Laptop,,Flipkart,34990,3.9,True,https://flipkart.com/p/lenovo-ideapad,False
